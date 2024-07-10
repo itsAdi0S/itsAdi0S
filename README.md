@@ -10,7 +10,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=itsAdi0S&show_icons=true&theme=radical"/>
 
 - 🌱 I'm currently learning **Computer Science with specialization in business systems** at VIT-AP University
-- 💬 You can reach me on Discord **@xdeuphie**
+- 💬 You can reach me on Discord **@xdflunky**
 - 😄 Pronouns : **he/him**
 
 <br/>
